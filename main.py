@@ -79,9 +79,7 @@ async def process_html(url, html_content):
 
 async def main():
     urls = '''
-        https://ohrana-tryda.com/node/566
-        https://ohrana-tryda.com/node/588
-        https://ohrana-tryda.com/node/1040
+        ....
         ....
     '''
 
